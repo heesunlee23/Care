@@ -1,4 +1,4 @@
-# Care: 
+# Care: care work platform
 Soldesk Academy First Team Project
 
 ## Presentation Slides
